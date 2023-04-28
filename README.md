@@ -5,5 +5,6 @@
 ## About me:
 - Currently a student at Turing School of Software Engineering
 - BA from the University of Colorado at Boulder 
-- Background in small business management as a co-owner in the restaurant industry
-  - As well as brand marketing and content creation 
+- Background:
+  - Small business management as a co-owner of a restaurant
+  - Brand marketing and content creation 
