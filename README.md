@@ -5,6 +5,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakisandrac)](https://github.com/sakisandrac/github-readme-stats)
 
+
 ## About me:
 - Currently a student at Turing School of Software Engineering
 - I have a BA from the University of Colorado at Boulder in Psychology and Japanese Studies
@@ -13,3 +14,5 @@
   - Brand marketing and content creation on social media platforms includeing Instagram, YouTube and TikTok
 
 Please visit my <a href="https://www.linkedin.com/in/saki-c-a7306b259/">LinkedIn</a> for more info or contact me at sakisandra.c@gmail.com!
+
+<a href="https://saki-c-portfolio.vercel.app/">VIEW MY PORTFOLIO</a>
