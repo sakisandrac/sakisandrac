@@ -12,10 +12,10 @@ Fuelled by an unwavering enthusiasm for learning, I channel my creativity and pe
 ## Technologies Used:
 <img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/1d7ca95d-2590-4956-a70d-36493f0f5b57" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/5603e596-c421-4b5f-ac27-bf89cd2c4400" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/ed416d29-afbc-492a-93ec-d20e7e8ef2c2" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/9c63eb7c-788c-449d-a07f-6231df9023e6" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/e4cfe684-f621-434e-b507-d37fc35bc7bd" width="50px" />
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><img height="200px" src="https://github-readme-stats.vercel.app/api?username=sakisandrac" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=sakisandrac" />
 
-## My Portfolio:
-<a href="https://saki-c-portfolio.vercel.app/">Click here to View! 🌸</a>
+## <a href="https://saki-c-portfolio.vercel.app/"> View My Portfolio: </a>
+<a href="https://saki-c-portfolio.vercel.app/"><img width="700" alt="Screenshot 2023-08-04 at 6 35 41 PM" src="https://github.com/sakisandrac/sakisandrac/assets/118419729/ed392997-7d0d-4a44-b5ce-ef4d131ef3fa"> </a>
 
 ## Contact Me:
 Please visit my <a href="https://www.linkedin.com/in/saki-c-a7306b259/">LinkedIn</a> for more info or contact me at sakisandra.c@gmail.com!
