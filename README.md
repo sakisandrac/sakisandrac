@@ -10,7 +10,10 @@ Hello there! I'm a passionate full stack developer with a unique blend of experi
 Fuelled by an unwavering enthusiasm for learning, I channel my creativity and penchant for self-expression into every project. Whether it's crafting elegant code, exploring new languages, or unleashing innovative solutions, I'm dedicated to pushing boundaries and making an impact. Join me on this exciting path of continuous growth and exploration through the realms of technology and beyond!
 
 ## Technologies Used:
-<img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/1d7ca95d-2590-4956-a70d-36493f0f5b57" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/5603e596-c421-4b5f-ac27-bf89cd2c4400" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/ed416d29-afbc-492a-93ec-d20e7e8ef2c2" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/9c63eb7c-788c-449d-a07f-6231df9023e6" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/e4cfe684-f621-434e-b507-d37fc35bc7bd" width="50px" />
+<img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/1d7ca95d-2590-4956-a70d-36493f0f5b57" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/5603e596-c421-4b5f-ac27-bf89cd2c4400" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/ed416d29-afbc-492a-93ec-d20e7e8ef2c2" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/9c63eb7c-788c-449d-a07f-6231df9023e6" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/e4cfe684-f621-434e-b507-d37fc35bc7bd" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/198f4105-4729-4886-850e-9037b4bb2beb" width="50px" />
+
+
+[OTHERS: Express.JS, Node.JS, Mocha/Chai Testing, Cypress E2E Testing, Accessibility Practices, Agile Method]
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=sakisandrac" />
 
