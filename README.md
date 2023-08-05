@@ -12,8 +12,9 @@ Fuelled by an unwavering enthusiasm for learning, I channel my creativity and pe
 ## Technologies Used:
 <img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/1d7ca95d-2590-4956-a70d-36493f0f5b57" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/5603e596-c421-4b5f-ac27-bf89cd2c4400" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/ed416d29-afbc-492a-93ec-d20e7e8ef2c2" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/9c63eb7c-788c-449d-a07f-6231df9023e6" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/e4cfe684-f621-434e-b507-d37fc35bc7bd" width="50px" /><img src="https://github.com/sakisandrac/sakisandrac/assets/118419729/198f4105-4729-4886-850e-9037b4bb2beb" width="50px" />
 
-
-[OTHERS: Express.JS, Node.JS, Mocha/Chai Testing, Cypress E2E Testing, Accessibility Practices, Agile Method]
+<img height="27px" src="https://img.shields.io/badge/Mocha%2FChai-fa96c8?style=flat-square&logo=Mocha&logoColor=ffffff"><img height="27px" 
+ src="https://img.shields.io/badge/Express.JS-fcd4e2?style=flat-square&logo=express&logoColor=ffffff"/><img height="27px" src="https://img.shields.io/badge/Cypress-fa96c8?style=flat-square&logo=Cypress&logoColor=ffffff"/><img height="27px" src="https://img.shields.io/badge/Agile_Method-fcd4e2?style=flat-square&logoColor=ffffff"/><img height="27px" 
+ src="https://img.shields.io/badge/Accessibility_Practices-fa96c8?style=flat-square&logoColor=ffffff"/> 
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=sakisandrac" />
 
